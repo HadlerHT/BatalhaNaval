@@ -23,7 +23,7 @@ In game there are some functionalities, such as:
 - **ajuda**: Shows game info for the players.
 - **carregar**: Open a saved game.
 - **desistir**: Gives a current player a chance to surrender.
-- **gravar**: Saves the game with this format: tabuleiro-yyyy.mm.dd_hhmmss.txt
+- **gravar**: Saves the game with this format: _tabuleiro-yyyy.mm.dd_hhmmss.txt_
 - **pow**: Shoots on a determined position, like “pow 2H”.
 - **revelar**: Reveal fleets or hide them.
 - **sair**: Leave the game.
