@@ -16,7 +16,7 @@ The game was developed in C language and runs on the OS Windows 10, for generati
 ### Game Functionalities 
 On the game menu, type “iniciar” to start the game or “ajuda” to get some info.
 
-![HadlerHT/BatalhaNaval/BootScreen.png]
+![](HadlerHT/BatalhaNaval/BootScreen.png)
 
 
 In game there are some functionalities, such as: 
