@@ -1,8 +1,8 @@
-# BatalhaNaval
+# Battleships in C
 
 ## Context
 This code was developed as a project to the programing introduction discipline on the electric engineering course by USP (Universidade 
-de São Paulo) thought 2 months. Suggest by the Dr. Jó Ueyama, whom had been teaching C language coding to his class, as a challenge and
+de São Paulo) thought 2 months. Suggest by the Dr. Jó Ueyama, who had been teaching C language coding to his class, as a challenge and
 final test to his students, the implementation should be made only using the language standard libraries and should run on the OS 
 terminal. Throughout the code, almost every resource available in the language was at least once used to accomplish the final required 
 result: a fully functional Battleships game.
