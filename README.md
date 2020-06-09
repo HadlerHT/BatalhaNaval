@@ -15,8 +15,8 @@ The game was developed in C language and runs on the OS Windows 10, for generati
 
 ### Game Functionalities
 In game there are some functionalities, such as: 
-- acaso: Changes fleet position, but conserves score.
-- ajuda: Shows game info for the players.
+- * acaso *: Changes fleet position, but conserves score.
+- * ajuda *: Shows game info for the players.
 - carregar: Open a saved game.
 - desistir: Gives a current player a chance to surrender.
 - gravar: Saves the game with this format: tabuleiro-yyyy.mm.dd_hhmmss.txt
