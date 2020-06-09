@@ -10,18 +10,21 @@ The Battleships game was vastly played around the World War I in France, even th
 Battleship is a two players game is which the objective is destroy all the enemy fleet. The gameplay is based on turns and both fleets are randomized across the field. So players starts shooting alternately on hidden enemy ships, the first one to hit all wins.
 
 ## Implementation
-run game:
-Game functions: On the game menu, type “iniciar” to start the game or “ajuda” to get some info.
-Inside the game there are some functionalities, such as: 
-acaso: Changes fleet position, but conserves score.
-ajuda:	Shows game info for the players.
-carregar: Open a saved game.
-desistir: Gives a current player a chance to surrender.
-gravar: Saves the game in this format tabuleiro-yyyy.mm.dd_hhmmss.txt
-pow: Shoots on a determined position, like “pow 2H”.
-revelar: Reveal fleets or hide them.
-sair: Leave the game.
-win: Makes the current player instantly win the match, but it needs a password.
+### Runing the Game: 
+The game was developed in C language and runs on the OS Windows 10, for generating an executable file from the C code (BatalhaNaval.c) the gcc compiler must be installed allowing, through the Windows terminal or some IDE - such as Atom, Dev-C++, Visual Studio Code and CodeBlocks, for the code to be compiled.Game functions: On the game menu, type “iniciar” to start the game or “ajuda” to get some info.
+
+### Game Functionalities
+In game there are some functionalities, such as: 
+- acaso: Changes fleet position, but conserves score.
+- ajuda: Shows game info for the players.
+- carregar: Open a saved game.
+- desistir: Gives a current player a chance to surrender.
+- gravar: Saves the game with this format: tabuleiro-yyyy.mm.dd_hhmmss.txt
+- pow: Shoots on a determined position, like “pow 2H”.
+- revelar: Reveal fleets or hide them.
+- sair: Leave the game.
+- win: Makes the current player instantly win the match, but it needs a password.
+- Password is ueyama. To change it just go to line 532 in BatalhaNaval.c and change ueyama by the desired one.
 
 
 		
