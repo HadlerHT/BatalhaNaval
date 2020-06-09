@@ -10,7 +10,7 @@ The Battleships game was vastly played around the World War I in France, even th
 Battleship is a two players game is which the objective is destroy all the enemy fleet. The gameplay is based on turns and both fleets are randomized across the field. So players starts shooting alternately on hidden enemy ships, the first one to hit all wins.
 
 ## Implementation
-#### Runing the Game 
+### Runing the Game 
 The game was developed in C language and runs on the OS Windows 10, for generating an executable file from the C code (BatalhaNaval.c) the gcc compiler must be installed allowing, through the Windows terminal or some IDE - such as Atom, Dev-C++, Visual Studio Code and CodeBlocks, for the code to be compiled.
 
 ### Game Functionalities 
