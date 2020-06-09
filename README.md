@@ -31,7 +31,7 @@ In game there are some functionalities, such as:
 	- _Password is by default ueyama. To change it just go to line 532 in BatalhaNaval.c._
 
 
-## Observations:
+## Observations
 - The project was developed by a duo, the github profiles are HadlerHT and domingues100.
 - Deeper information of each function is shown as comments though the code.
 - The functions while playing are in portuguese.
