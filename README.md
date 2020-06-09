@@ -15,16 +15,16 @@ The game was developed in C language and runs on the OS Windows 10, for generati
 
 ### Game Functionalities
 In game there are some functionalities, such as: 
-- * acaso *: Changes fleet position, but conserves score.
-- * ajuda *: Shows game info for the players.
-- carregar: Open a saved game.
-- desistir: Gives a current player a chance to surrender.
-- gravar: Saves the game with this format: tabuleiro-yyyy.mm.dd_hhmmss.txt
-- pow: Shoots on a determined position, like “pow 2H”.
-- revelar: Reveal fleets or hide them.
-- sair: Leave the game.
-- win: Makes the current player instantly win the match, but it needs a password.
-- Password is ueyama. To change it just go to line 532 in BatalhaNaval.c and change ueyama by the desired one.
+- **acaso** : Changes fleet position, but conserves score.
+- **ajuda**: Shows game info for the players.
+- **carregar**: Open a saved game.
+- **desistir**: Gives a current player a chance to surrender.
+- **gravar**: Saves the game with this format: tabuleiro-yyyy.mm.dd_hhmmss.txt
+- **pow**: Shoots on a determined position, like “pow 2H”.
+- **revelar**: Reveal fleets or hide them.
+- **sair**: Leave the game.
+- **win**: Makes the current player instantly win the match, but it needs a password.
+* _Password is ueyama. To change it just go to line 532 in BatalhaNaval.c and change ueyama by the desired one_.
 
 
 		
