@@ -24,7 +24,7 @@ In game there are some functionalities, such as:
 - **revelar**: Reveal fleets or hide them.
 - **sair**: Leave the game.
 - **win**: Makes the current player instantly win the match, but it needs a password.
-* _Password is ueyama. To change it just go to line 532 in BatalhaNaval.c and change ueyama by the desired one_.
+- _Password is by default ueyama. To change it just go to line 532 in BatalhaNaval.c and change ueyama by the desired one._
 
 
 		
