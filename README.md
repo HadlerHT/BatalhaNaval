@@ -33,7 +33,7 @@ In game there are some functionalities, such as:
 
 ## Observations
 - The project was developed by a duo, the github profiles are HadlerHT and domingues100.
-- Deeper information of each function is shown as comments though the code.
+- Deeper information of each function is shown as comments through the code.
 - The functions while playing are in portuguese.
 - Player inputs aren’t case sensitive.
 - This game was developed for OS Windows 10.
